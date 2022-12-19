@@ -1,0 +1,70 @@
+body   { background-color: #f3eee4; }
+
+@font-face {
+        font-family: "title";
+        src: url(atkinson-hyperlegible-bold-102-webfont.woff2); }
+
+@font-face {
+        font-family: "text";
+        src: url(./atkinson-hyperlegible-regular-102-webfont.woff2);}
+
+h2     { font-family: "title";}
+
+span   { font-family: "text";}
+
+p      { color: #bb1450; }
+
+.p1    { color: #1c2334; 
+         text-align: center; }
+
+img    { height: 70px;
+         width: 170px;
+         border-top-left-radius: 10px;
+         border-top-right-radius: 10px;
+         }
+
+.main  { display: flex;}
+         
+.card1 { width: 500px;
+         height: 100px; 
+         margin-right: 20px;}
+
+.card2 { height: 140px;
+         width: 170px; }
+
+.card3 { height: 70px;
+         width: 170px;
+         border-radius: 10px; }
+
+.card4 { height: 50px;
+         width: 150px;
+         background-color: #1c2334;
+         padding: 10px;
+         border-bottom-left-radius: 10px;
+         border-bottom-right-radius: 10px;} 
+
+.h11   { text-align: center; }
+
+h6     { color: white;
+         margin-top: 0px;
+        }
+
+.card5 { background-color: #e5bf55;
+         padding:  20px; 
+        }
+
+.card6   { text-align: center; }
+
+.button1 { color: white; 
+           border-radius: 10px;
+           background-color: rgb(4, 4, 44) ;
+           }
+
+.button2 { border-radius: 10px;
+           background-color:  #e5bf55;}
+
+.card7   { text-align: center;
+           padding: 20px; }
+
+
+ 
